@@ -24,7 +24,10 @@
 }
 .input_form {
   border: none;
+  outline: none;
   font-size: 18px;
+  box-sizing: border-box;
+  width: 100%;
 }
 .bottom {
   display: flex;
